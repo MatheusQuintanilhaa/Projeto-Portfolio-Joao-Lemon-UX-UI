@@ -1,13 +1,3 @@
-
-Copy code
-cd Projeto-Portfolio-Joao-Lemon-UX-UI
-
-Abra o arquivo index.html em seu navegador de preferência para visualizar o site de portfólio do João.
-
-Personalize o conteúdo, cores e estilos de acordo com suas necessidades. Os arquivos CSS estão localizados na pasta css, enquanto os arquivos JavaScript estão localizados na pasta js.
-
-
-
 # Projeto de Portfólio UX/UI do João
 
 Bem-vindo ao projeto de portfólio UX/UI do João! Este repositório contém o código-fonte e os arquivos necessários para construir e personalizar o site de portfólio do João, exibindo seu trabalho excepcional em design de experiência do usuário (UX) e interface do usuário (UI).
