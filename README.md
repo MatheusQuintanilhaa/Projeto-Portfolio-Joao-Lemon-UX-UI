@@ -22,7 +22,7 @@ O objetivo principal deste projeto é fornecer a plataforma para o João mostrar
 git clone https://github.com/MatheusQuintanilhaa/Projeto-Portfolio-Joao-Lemon-UX-UI.git
 
 2. Navegue até o diretório clonado:
-```bash
+
 cd Projeto-Portfolio-Joao-Lemon-UX-UI
 
 3. Abra o arquivo index.html em seu navegador de preferência para visualizar o site de portfólio do João.
